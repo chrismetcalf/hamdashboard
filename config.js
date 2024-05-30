@@ -15,7 +15,7 @@ const aURL = [
     "https://www.contestcalendar.com/fivewkcal.html",
     "1",
   ],
-  ["2196F3", "DX CLUSTER", "https://dxcluster.ha8tks.hu/map/", "1"],
+  ["2196F3", "PSK", "https://metcalf.lol/psk", "1"],
   [
     "2196F3",
     "LIGHTNING",
