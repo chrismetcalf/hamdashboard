@@ -83,7 +83,7 @@ const aIMG = [
   ],
   [
     "LIGHTNING LOCAL",
-    "https://www.blitzortung.org/en/Images/image_b_ny.png",
+    "https://northwesternweather.net/BO-new/BO/BONorthWest-ani.gif",
   ],
   ["GREY LINE", "https://www.timeanddate.com/scripts/sunmap.php?iso=now"],
   [
