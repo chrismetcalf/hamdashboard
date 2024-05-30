@@ -74,7 +74,7 @@ const aIMG = [
     "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/can/EXTENT3/GOES16-CAN-EXTENT3-1125x560.gif",
   ],
   [
-    "SATELLITE CGL",
+    "SATELLITE PNW",
     "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/pnw/EXTENT3/GOES16-PNW-EXTENT3-600x600.gif",
   ],
   [
