@@ -8,7 +8,7 @@ const aURL = [
   ["add10d", "BACK", "#", "1", "R"],
   ["ff9100", "Refresh", "#", "1"],
   ["0dd1a7", "Help", "#", "1"],
-  ["2196F3", "CLUBLOG", "https://clublog.org/livestream/K1NOT", "1.7"],
+  ["2196F3", "QRZ LOG", "https://logbook.qrz.com", "1.7"],
   [
     "2196F3",
     "CONTEST",
@@ -75,7 +75,7 @@ const aIMG = [
   ],
   [
     "SATELLITE CGL",
-    "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/cgl/EXTENT3/GOES16-CGL-EXTENT3-600x600.gif",
+    "https://cdn.star.nesdis.noaa.gov/GOES16/GLM/SECTOR/pnw/EXTENT3/GOES16-PNW-EXTENT3-600x600.gif",
   ],
   [
     "LIGHTNING",
