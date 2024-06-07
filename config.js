@@ -90,7 +90,7 @@ const aIMG = [
     "PAC PROPAGATION",
     "https://www.tvcomm.co.uk/g7izu/Autosave/PACIFIC_HF_AutoSave.JPG",
   ],
-  ["10M PROPAGATION", "https://www.tvcomm.co.uk/g7izu/Autosave/NA_ES_AutoSave.JPG"],
+  ["10M+ PROPAGATION", "https://www.tvcomm.co.uk/g7izu/Autosave/NA_ES_AutoSave.JPG"],
   ["HF PROPAGATION",
   "https://www.hamqsl.com/solar101vhf.php",
   "https://www.hamqsl.com/solar100sc.php",
